@@ -1,0 +1,43 @@
+[
+    {
+        "id": "0",
+        "name": "All Events",
+        "img":"https://i.ibb.co/jkFr6B7/allevent.png"
+    },
+    {
+        "id": "1",
+        "name": "Carrier Fairs",
+        "img":"https://i.ibb.co/jwwCb7Z/carrier-Fair.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Conferences",
+        "img":"https://i.ibb.co/jWrg6bf/educonference.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Job Placement",
+        "img":"https://i.ibb.co/FbYg0JW/jobFair.png"
+    },
+    {
+        "id": "4",
+        "name": "Training",
+        "img":"https://i.ibb.co/XxF5vQz/training.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Workshop",
+        "img":"https://i.ibb.co/RTZbnKx/workshop.jpg"
+    },
+    {
+        "id": "6",
+        "name": "webinar",
+        "img":"https://i.ibb.co/YTGMFLH/webinear.png"
+    },
+    {
+        "id": "7",
+        "name": "Enjoying Events",
+        "img":"https://i.ibb.co/5rtDzcy/enjoy.jpg"
+    }
+    
+]

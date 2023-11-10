@@ -1,0 +1,118 @@
+[
+  {
+      "id": "0",
+      "name": "All Events",
+      "img":"https://i.ibb.co/jkFr6B7/allevent.png"
+  },
+  {
+      "id": "1",
+      "name": "Carrier Fairs",
+      "img":"https://i.ibb.co/jwwCb7Z/carrier-Fair.jpg",
+      "para":[
+        "Career fair management is the process of planning, organizing, and executing a career fair. This includes tasks such as:",
+
+"Identifying the target audience and setting the fair goals.",
+"Choosing a date and venue for the fair.",
+"Recruiting employers to participate in the fair.",
+"Marketing the fair to students and other job seekers.",
+"Managing the fair logistics, such as registration, check-in, and booth setup.",
+"On-site management of the fair, including support for employers and attendees."
+      ]
+  },
+  {
+      "id": "2",
+      "name": "Conferences",
+      "img":"https://i.ibb.co/jWrg6bf/educonference.jpg",
+      "para":[
+       "Educational conference management is the process of planning, organizing, and executing educational conferences. This includes tasks such as:",
+
+       "Identifying the conference topic and target audience.",
+       "Identifying the conference topic and target audience.",
+       "Developing the conference program and securing speakers and presenters.",
+       "Marketing and promoting the conference to potential attendees.",
+       "Managing the conference budget and logistics, such as registration, check-in, and support for speakers, presenters, and attendees.",
+        "On-site management of the conference, such as ensuring that the program runs smoothly and that attendees have a positive experience."
+      ]
+  },
+  {
+      "id": "3",
+      "name": "Job Placement",
+      "img":"https://i.ibb.co/FbYg0JW/jobFair.png",
+      "para":[
+"Job placement management is the process of finding and securing employment for job seekers. This includes tasks such as:",
+
+"Identifying the job seeker's needs and goals.",
+"Matching the job seeker to open positions.",
+"Preparing the job seeker for interviews.",
+"Negotiating salaries and benefits.",
+"Onboarding the job seeker into their new role."
+      ]
+  },
+  {
+      "id": "4",
+      "name": "Training",
+      "img":"https://i.ibb.co/XxF5vQz/training.jpg",
+      "para":[
+        
+"Educational training management is the process of planning, organizing, and executing educational and training programs. This includes tasks such as:",
+
+"Identifying the training needs of learners.",
+"Developing and delivering training programs.",
+"Evaluating the effectiveness of training programs.",
+"Managing the training budget and logistics.",
+"On-site management of training programs, such as registration, check-in, and support for instructors and learners."
+      ]
+  },
+  {
+      "id": "5",
+      "name": "Workshop",
+      "img":"https://i.ibb.co/RTZbnKx/workshop.jpg",
+      "para":[
+        "Educational workshop management is the process of planning, organizing, and executing educational workshops. This includes tasks such as:",
+
+        "Identifying the workshop topic and target audience.",
+        "Developing the workshop curriculum and materials.",
+        "Securing a workshop venue and equipment.",
+        "Recruiting and scheduling workshop instructors.",
+        "Marketing and promoting the workshop to potential participants.",
+        "Managing the workshop budget and logistics.",
+        "On-site management of the workshop, such as registration, check-in, and support for instructors and participants."
+      ]
+  },
+  {
+      "id": "6",
+      "name": "webinar",
+      "img":"https://i.ibb.co/YTGMFLH/webinear.png",
+      "para":[
+        "Educational webinar management is the process of planning, organizing, and executing educational webinars. This includes tasks such as:",
+
+        "Identifying the webinar topic and target audience.",
+        "Developing the webinar content and presentation materials.",
+        "Securing a webinar platform and scheduling the webinar.",
+        "Promoting and marketing the webinar to potential attendees.",
+        "Managing the webinar logistics, such as registration, check-in, and technical support.",
+        "During-webinar moderation and engagement.",
+        "Post-webinar follow-up and evaluation."
+      ]
+
+      
+  },
+  {
+      "id": "7",
+      "name": "Enjoying Events",
+      "img":"https://i.ibb.co/5rtDzcy/enjoy.jpg",
+      "para":[
+        
+        "Educational enjoying events management is the process of planning, organizing, and executing educational events that are also enjoyable for participants. This includes tasks such as:",
+        
+       "1.Identifying the event topic and target audience",
+        "2.Developing the event agenda and activities",
+        "3.Securing an event venue and equipment",
+        "4.Recruiting and scheduling event speakers and presenters",
+        "5.Marketing and promoting the event to potential participants",
+        "6.Managing the event budget and logistics",
+        "7.On-site management of the event, such as registration, check-in, and support for speakers, presenters, and participants"
+      ]
+    }
+  
+]
